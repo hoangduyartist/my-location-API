@@ -56,7 +56,12 @@
             "name":"Highlands Coffee",
             "address":"46 Điện Biên Phủ",
             "brandId":1,
-            "img":"https://lh5.googleusercontent.com/p/AF1QipORS8ixPUxzN-Ig56lOYwtoDEn1u_0CeTpZMePm=w260-h175-n-k-no"
+            "img":"https://lh5.googleusercontent.com/p/AF1QipORS8ixPUxzN-Ig56lOYwtoDEn1u_0CeTpZMePm=w260-h175-n-k-no",
+            "cmts":[
+                {"user":"abc", "cmt":"cmt of ABC"},
+                {"user":"bcd", "cmt":"cmt of ABC1"},
+                {"user":"cde", "cmt":"cmt of ABC2"}
+            ]
         },
         {
             "id":2,
@@ -98,6 +103,9 @@
 
     ],
     "another":[
+    
+    ],
+    "more":[
     
     ]
 }
